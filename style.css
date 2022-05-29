@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+     background-color: Lavender;
+}
+
+h1 {
+    background-color: indigo;
+    color: white;
+    padding: 10px;
+}
+footer{
+    background-color: indigo;
+    color: white;
+    padding: 10px;
+    display: flex;
+        justify-content: space-between;
+}
+header {
+   padding: 30px;
+ background-image: linear-gradient(LightSteelBlue, white, PowderBlue);
+}
+.link-header {
+background-color: white;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+.link-nav{
+background-color: rgb(255, 201, 201);
+    border-radius: 10px;
+    color: black;
+}
+.image {
+    padding: 10px;
+    display: flex;
+        justify-content: space-between;
+}
+ul {
+font-size: 25px;
+}
